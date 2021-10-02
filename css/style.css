@@ -10,7 +10,7 @@ body {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-image: url(/img/photo-bg.jpg);
+  background-image: url(/img/petr-vysohlid-9fqwGqGLUxc-unsplash.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -21,7 +21,7 @@ body {
 .location,
 .temperature {
   height: 30vh;
-  width: 50%;
+  width: 30%;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -34,7 +34,7 @@ body {
 .degree-section {
   display: flex;
   align-items: center;
-  cursor: pointer;
+  justify-content: center;
 }
 
 .degree-section span {
@@ -44,4 +44,8 @@ body {
 
 .degree-section h2 {
   font-size: 40px;
+}
+
+.weather-description {
+  text-align: center;
 }
