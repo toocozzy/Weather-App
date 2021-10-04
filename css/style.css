@@ -10,7 +10,7 @@ body {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-image: url(/img/petr-vysohlid-9fqwGqGLUxc-unsplash.jpg);
+  background-image: url("./../img/petr-vysohlid-9fqwGqGLUxc-unsplash.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
